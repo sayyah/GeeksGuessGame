@@ -1,0 +1,9 @@
+C:\Project\GeeksGuessGame\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Project\GeeksGuessGame\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Project\GeeksGuessGame\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Project\GeeksGuessGame\Domain\obj\Debug\netstandard2.0\Domain.pdb

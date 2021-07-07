@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pictures\Chinese-001.JPG" />
+    <None Remove="Pictures\Chinese-002.JPG" />
+    <None Remove="Pictures\Japanese-001.JPG" />
+    <None Remove="Pictures\Japanese-002.JPG" />
+    <None Remove="Pictures\Korean-001.JPG" />
+    <None Remove="Pictures\Korean-002.JPG" />
+    <None Remove="Pictures\Korean-003.JPG" />
+    <None Remove="Pictures\Thai-001.jpg" />
+    <None Remove="Pictures\Thai-002.JPG" />
+    <None Remove="Pictures\Thai-003.JPG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Pictures\Chinese-001.JPG" />
+    <Resource Include="Pictures\Chinese-002.JPG" />
+    <Resource Include="Pictures\Japanese-001.JPG" />
+    <Resource Include="Pictures\Japanese-002.JPG" />
+    <Resource Include="Pictures\Korean-001.JPG" />
+    <Resource Include="Pictures\Korean-002.JPG" />
+    <Resource Include="Pictures\Korean-003.JPG" />
+    <Resource Include="Pictures\Thai-001.jpg" />
+    <Resource Include="Pictures\Thai-002.JPG" />
+    <Resource Include="Pictures\Thai-003.JPG" />
+  </ItemGroup>
+
+</Project>

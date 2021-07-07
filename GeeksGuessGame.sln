@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessGame", "GuessGame\GuessGame.csproj", "{B69BFCCB-99DF-4F2C-8B22-6B0255330022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{739D2279-8C0B-4B7E-B2D7-2B512FE24ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69BFCCB-99DF-4F2C-8B22-6B0255330022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69BFCCB-99DF-4F2C-8B22-6B0255330022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69BFCCB-99DF-4F2C-8B22-6B0255330022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69BFCCB-99DF-4F2C-8B22-6B0255330022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739D2279-8C0B-4B7E-B2D7-2B512FE24ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739D2279-8C0B-4B7E-B2D7-2B512FE24ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739D2279-8C0B-4B7E-B2D7-2B512FE24ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739D2279-8C0B-4B7E-B2D7-2B512FE24ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9264C0-37C7-4280-9848-1BCA9EB25B27}
+	EndGlobalSection
+EndGlobal
